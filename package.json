@@ -1,0 +1,28 @@
+{
+  "name": "extractor-audio",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "audio",
+    "mp3",
+    "convert",
+    "extractor"
+  ],
+  "author": "by zx-0b111",
+  "license": "MIT",
+  "description": "uma biblioteca simples de extração de áudio download de vídeos para aprender sobre nodeJS",
+  "homepage": "<meu_readme>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zx-0b111/audio-extractor.git"
+  },
+  "dependencies": {
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs": "^0.0.1-security",
+    "yt-dlp-wrap": "^2.3.12"
+  }
+}
