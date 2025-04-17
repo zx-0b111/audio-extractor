@@ -51,7 +51,8 @@ function downloadMP4(url, nome) {
 
 } catch(error) {
     console.log(error);
-} 
+}
+return [url, nome];
 }
 module.exports = extractMP3;
 module.exports = downloadMP4;
