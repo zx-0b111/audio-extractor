@@ -23,5 +23,5 @@ extractMP3('videoplayback.mp4', 'audio.mp3'); //arquivo mp4, nome do audio extra
 downloadMP4('link_video_youtube', 'video.mp4') //link do vídeo do youtube, nome do video extraido
 ```
 
-# Feito por
+# Feito por:
 zx-0b111 e Jorge_Batata
