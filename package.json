@@ -1,5 +1,5 @@
 {
-  "name": "extractor-audio-video",
+  "name": "extractor-mp4-mp3",
   "version": "1.0.6",
   "main": "index.js",
   "scripts": {
@@ -14,10 +14,10 @@
   "author": "by zx-0b111",
   "license": "MIT",
   "description": "uma biblioteca simples de extração de áudio download de vídeos para aprender sobre nodeJS",
-  "homepage": "https://github.com/zx-0b111/audio-extractor/blob/main/README.md",
+  "homepage": "https://github.com/zx-0b111/extractor-mp4-mp3/blob/main/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zx-0b111/audio-extractor.git"
+    "url": "https://github.com/zx-0b111/extractor-mp4-mp3.git"
   },
   "dependencies": {
     "ffmpeg": "^0.0.4",
