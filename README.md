@@ -10,7 +10,7 @@ Instale extractor-audio com npm
 
 ```bash
   cd meu-projeto
-  npm i extractor-audio-video
+  npm i extractor-mp4-mp3
 ```
     
 ## Exemplo de uso:
