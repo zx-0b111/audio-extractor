@@ -16,8 +16,7 @@ Instale extractor-audio com npm
 ## Exemplo de uso:
 
 ```javascript
-const extractMP3 = require('extractor-mp4-mp3'); //chamando a função
-const downloadMP4 = require('extractor-mp4-mp3');
+const {extractMP3, downloadMP4} = require('extractor-mp4-mp3'); //chamando funções
 
 extractMP3('videoplayback.mp4', 'audio.mp3'); //arquivo mp4, nome do audio extraido
 downloadMP4('link_video_youtube', 'video.mp4') //link do vídeo do youtube, nome do video extraido
