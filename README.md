@@ -1,5 +1,5 @@
 
-# Extractor-Audio-Video
+# Extractor-mp4-mp3
 
 Uma biblioteca simples desenvolvida em NodeJS para estudos. Ela contém uma duas funções, uma que vai receber dois parâmetros, um  "arquivo.mp4" e um "nome_arquivo.mp3". Que basicamente é a entrada de um video e a saida irá ser o nome de sua preferência para o áudio que vai ser extraído do mesmo. A outra também receberá dois parâmetros, mas de "url" e "nome_video.mp4". A função nova consiste em basicamente extrair videos do youtube.
 
